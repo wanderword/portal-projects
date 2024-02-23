@@ -1,0 +1,155 @@
+[
+    {
+        "projectId": "3c31acd5-6089-48ae-85df-da76b14e1481",
+        "appId": "a8b9e783-1167-48d2-9336-f3bb5fc790a9",
+        "name": "Mathcaster",
+        "type": "Game",
+        "description": "An exciting combination of education and entertainment, suitable for ages between 8-12. This audio adventure is a perfect resource to help children improve and develop their math skills in a fun, exciting and challenging way.",
+        "imageResource": "R.mipmap.fabella_mathcaster",
+        "environment": "Production"
+    },
+    {
+        "projectId": "87697813-aede-43bf-a806-abf45e897a3a",
+        "appId": "d69a1c39-08f8-48a4-b1bf-636d3a2bf5c1",
+        "name": "Escape from 63rd and Wallace",
+        "type": "Game",
+        "description": "An audio adventure that takes the listener on a journey to Chicago in 1893, following Charlene, a young woman searching for her sister. This horror-themed story is full of puzzles that you will need to solve in order to succeed.",
+        "imageResource": "R.mipmap.fabella_63rd",
+        "environment": "Production"
+    },
+    {
+        "projectId": "3ww276Ss6J6kaCon7Cselu44",
+        "appId": "Z9J6VQcw7J78ERxXWaO2cOlr",
+        "name": "AI Travel Buddy",
+        "type": "Game",
+        "description": "",
+        "imageResource": "R.mipmap.fabella_open_ai",
+        "environment": "Development"
+    },
+    {
+        "projectId": "",
+        "appId": "",
+        "name": "Starfinder",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.fabella_starfinder",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "f403c180-02eb-4559-9012-77a2165d84b9",
+        "name": "Tales of Sasha",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.fabella_sasha",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "",
+        "name": "The Bard's Tale",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.ic_launcher",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "8d9e89af-0a5b-47da-8dad-6025a5a5e45f",
+        "name": "Blood water",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.ic_launcher",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "",
+        "name": "Black Pearl",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.ic_launcher",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "",
+        "name": "The Copernicus Legacy",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.ic_launcher",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "",
+        "name": "Alligator Alley",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.ic_launcher",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "",
+        "name": "Artipelag",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.ic_launcher",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "",
+        "name": "Real Estate Tour - San Francisco",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.ic_launcher",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "",
+        "name": "Yes Girls",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.ic_launcher",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "",
+        "name": "Storklinten",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.ic_launcher",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "",
+        "name": "Kemi quizz",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.ic_launcher",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "",
+        "name": "How are you doing",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.ic_launcher",
+        "environment": "Production"
+    },
+    {
+        "projectId": "",
+        "appId": "",
+        "name": "10 minute murder",
+        "type": "Game",
+        "description": "Coming Soon",
+        "imageResource": "R.mipmap.ic_launcher",
+        "environment": "Production"
+    }
+]
