@@ -5,7 +5,7 @@
         "title": "Mathcaster",
         "category": "Game",
         "description": "An exciting combination of education and entertainment, suitable for ages between 8-12. This audio adventure is a perfect resource to help children improve and develop their math skills in a fun, exciting and challenging way.",
-        "iconUrl": "R.mipmap.fabella_mathcaster",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -14,7 +14,7 @@
         "title": "Escape from 63rd and Wallace",
         "category": "Game",
         "description": "An audio adventure that takes the listener on a journey to Chicago in 1893, following Charlene, a young woman searching for her sister. This horror-themed story is full of puzzles that you will need to solve in order to succeed.",
-        "iconUrl": "R.mipmap.fabella_63rd",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -23,7 +23,7 @@
         "title": "AI Travel Buddy",
         "category": "Game",
         "description": "",
-        "iconUrl": "R.mipmap.fabella_open_ai",
+        "iconUrl": "",
         "env": "Development"
     },
     {
@@ -32,7 +32,7 @@
         "title": "Starfinder",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.fabella_starfinder",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -41,7 +41,7 @@
         "title": "Tales of Sasha",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.fabella_sasha",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -50,7 +50,7 @@
         "title": "The Bard's Tale",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.ic_launcher",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -59,7 +59,7 @@
         "title": "Blood water",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.ic_launcher",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -68,7 +68,7 @@
         "title": "Black Pearl",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.ic_launcher",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -77,7 +77,7 @@
         "title": "The Copernicus Legacy",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.ic_launcher",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -86,7 +86,7 @@
         "title": "Alligator Alley",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.ic_launcher",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -95,7 +95,7 @@
         "title": "Artipelag",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.ic_launcher",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -104,7 +104,7 @@
         "title": "Real Estate Tour - San Francisco",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.ic_launcher",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -113,7 +113,7 @@
         "title": "Yes Girls",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.ic_launcher",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -122,7 +122,7 @@
         "title": "Storklinten",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.ic_launcher",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -131,7 +131,7 @@
         "title": "Kemi quizz",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.ic_launcher",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -140,7 +140,7 @@
         "title": "How are you doing",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.ic_launcher",
+        "iconUrl": "",
         "env": "Production"
     },
     {
@@ -149,7 +149,7 @@
         "title": "10 minute murder",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "R.mipmap.ic_launcher",
+        "iconUrl": "",
         "env": "Production"
     }
 ]
