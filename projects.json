@@ -5,7 +5,7 @@
         "title": "Mathcaster",
         "category": "Game",
         "description": "An exciting combination of education and entertainment, suitable for ages between 8-12. This audio adventure is a perfect resource to help children improve and develop their math skills in a fun, exciting and challenging way.",
-        "iconUrl": "",
+        "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/mathcaster-playstore.bmp",
         "env": "Production"
     },
     {
@@ -14,7 +14,7 @@
         "title": "Escape from 63rd and Wallace",
         "category": "Game",
         "description": "An audio adventure that takes the listener on a journey to Chicago in 1893, following Charlene, a young woman searching for her sister. This horror-themed story is full of puzzles that you will need to solve in order to succeed.",
-        "iconUrl": "",
+        "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/63rd-playstore.bmp",
         "env": "Production"
     },
     {
@@ -23,7 +23,7 @@
         "title": "AI Travel Buddy",
         "category": "Game",
         "description": "",
-        "iconUrl": "",
+        "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/open_ai-playstore.bmp",
         "env": "Development"
     },
     {
@@ -32,7 +32,7 @@
         "title": "Starfinder",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "",
+        "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/sasha-playstore.bmp",
         "env": "Production"
     },
     {
@@ -41,7 +41,7 @@
         "title": "Tales of Sasha",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "",
+        "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/starfinder-playstore.bmp",
         "env": "Production"
     },
     {
