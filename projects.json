@@ -32,7 +32,7 @@
         "title": "Starfinder",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/sasha-playstore.bmp",
+        "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/starfinder-playstore.bmp",
         "env": "Production"
     },
     {
@@ -41,7 +41,7 @@
         "title": "Tales of Sasha",
         "category": "Game",
         "description": "Coming Soon",
-        "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/starfinder-playstore.bmp",
+        "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/sasha-playstore.bmp",
         "env": "Production"
     },
     {
