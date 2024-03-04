@@ -3,7 +3,7 @@
         "projectId": "3c31acd5-6089-48ae-85df-da76b14e1481",
         "versionId": "a8b9e783-1167-48d2-9336-f3bb5fc790a9",
         "title": "Mathcaster",
-        "category": "Game",
+        "category": "Games",
         "description": "An exciting combination of education and entertainment, suitable for ages between 8-12. This audio adventure is a perfect resource to help children improve and develop their math skills in a fun, exciting and challenging way.",
         "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/mathcaster-playstore.bmp",
         "env": "Production"
@@ -12,7 +12,7 @@
         "projectId": "87697813-aede-43bf-a806-abf45e897a3a",
         "versionId": "d69a1c39-08f8-48a4-b1bf-636d3a2bf5c1",
         "title": "Escape from 63rd and Wallace",
-        "category": "Game",
+        "category": "Games",
         "description": "An audio adventure that takes the listener on a journey to Chicago in 1893, following Charlene, a young woman searching for her sister. This horror-themed story is full of puzzles that you will need to solve in order to succeed.",
         "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/63rd-playstore.bmp",
         "env": "Production"
@@ -21,7 +21,7 @@
         "projectId": "3ww276Ss6J6kaCon7Cselu44",
         "versionId": "Z9J6VQcw7J78ERxXWaO2cOlr",
         "title": "AI Travel Buddy",
-        "category": "Game",
+        "category": "Assistants",
         "description": "",
         "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/open_ai-playstore.bmp",
         "env": "Development"
@@ -30,7 +30,7 @@
         "projectId": "",
         "versionId": "",
         "title": "Starfinder",
-        "category": "Game",
+        "category": "Games",
         "description": "Coming Soon",
         "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/starfinder-playstore.bmp",
         "env": "Production"
@@ -39,7 +39,7 @@
         "projectId": "",
         "versionId": "f403c180-02eb-4559-9012-77a2165d84b9",
         "title": "Tales of Sasha",
-        "category": "Game",
+        "category": "Games",
         "description": "Coming Soon",
         "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/sasha-playstore.bmp",
         "env": "Production"
@@ -48,7 +48,7 @@
         "projectId": "",
         "versionId": "",
         "title": "The Bard's Tale",
-        "category": "Game",
+        "category": "Games",
         "description": "Coming Soon",
         "iconUrl": "",
         "env": "Production"
@@ -57,7 +57,7 @@
         "projectId": "",
         "versionId": "8d9e89af-0a5b-47da-8dad-6025a5a5e45f",
         "title": "Blood water",
-        "category": "Game",
+        "category": "Games",
         "description": "Coming Soon",
         "iconUrl": "",
         "env": "Production"
@@ -66,7 +66,7 @@
         "projectId": "",
         "versionId": "",
         "title": "Black Pearl",
-        "category": "Game",
+        "category": "Games",
         "description": "Coming Soon",
         "iconUrl": "",
         "env": "Production"
@@ -75,7 +75,7 @@
         "projectId": "",
         "versionId": "",
         "title": "The Copernicus Legacy",
-        "category": "Game",
+        "category": "Games",
         "description": "Coming Soon",
         "iconUrl": "",
         "env": "Production"
@@ -84,7 +84,7 @@
         "projectId": "",
         "versionId": "",
         "title": "Alligator Alley",
-        "category": "Game",
+        "category": "Games",
         "description": "Coming Soon",
         "iconUrl": "",
         "env": "Production"
@@ -93,7 +93,7 @@
         "projectId": "",
         "versionId": "",
         "title": "Artipelag",
-        "category": "Game",
+        "category": "Tourism",
         "description": "Coming Soon",
         "iconUrl": "",
         "env": "Production"
@@ -102,7 +102,7 @@
         "projectId": "",
         "versionId": "",
         "title": "Real Estate Tour - San Francisco",
-        "category": "Game",
+        "category": "Assistants",
         "description": "Coming Soon",
         "iconUrl": "",
         "env": "Production"
@@ -111,7 +111,7 @@
         "projectId": "",
         "versionId": "",
         "title": "Yes Girls",
-        "category": "Game",
+        "category": "Podcasts",
         "description": "Coming Soon",
         "iconUrl": "",
         "env": "Production"
@@ -120,7 +120,7 @@
         "projectId": "",
         "versionId": "",
         "title": "Storklinten",
-        "category": "Game",
+        "category": "Tourism",
         "description": "Coming Soon",
         "iconUrl": "",
         "env": "Production"
@@ -129,16 +129,7 @@
         "projectId": "",
         "versionId": "",
         "title": "Kemi quizz",
-        "category": "Game",
-        "description": "Coming Soon",
-        "iconUrl": "",
-        "env": "Production"
-    },
-    {
-        "projectId": "",
-        "versionId": "",
-        "title": "How are you doing",
-        "category": "Game",
+        "category": "Education",
         "description": "Coming Soon",
         "iconUrl": "",
         "env": "Production"
@@ -147,7 +138,7 @@
         "projectId": "",
         "versionId": "",
         "title": "10 minute murder",
-        "category": "Game",
+        "category": "Games",
         "description": "Coming Soon",
         "iconUrl": "",
         "env": "Production"
