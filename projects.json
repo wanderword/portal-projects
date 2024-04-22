@@ -5,7 +5,7 @@
         "title": "Connector",
         "category": "Games",
         "description": "",
-        "iconUrl": "",
+        "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/connector-playstore.bmp",
         "env": "Production"
     },
     {
@@ -14,7 +14,7 @@
         "title": "Blood water",
         "category": "Games",
         "description": "Coming Soon",
-        "iconUrl": "",
+        "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/bloodwater-playstore.bmp",
         "env": "Production"
     },
     {
