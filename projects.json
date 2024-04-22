@@ -31,7 +31,7 @@
         "versionId": "Z9J6VQcw7J78ERxXWaO2cOlr",
         "title": "AI Travel Buddy",
         "category": "Assistants",
-        "description": "",
+        "description": "This is a AI Travel Buddy can will help you on new adventures.",
         "iconUrl": "https://raw.githubusercontent.com/wanderword/portal-projects/main/images/projects/open_ai-playstore.bmp",
         "env": "Development"
     },
